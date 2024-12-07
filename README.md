@@ -1,3 +1,3 @@
 # app-dev
 
-My favorite game Online Sabong
+My favorite place is Lobo
