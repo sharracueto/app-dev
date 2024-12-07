@@ -1,3 +1,3 @@
 # app-dev
 
-My favorite place is Lobo
+My favorite subject is Computer Animation
