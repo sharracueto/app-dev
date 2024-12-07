@@ -1,4 +1,3 @@
 # app-dev
 
-BSIT3.1B
-Lord Immanuel Institute Foundation Inc.
+Di ko pa po alam
